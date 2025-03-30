@@ -6,6 +6,8 @@ public class C7 {
 		
 		System.out.println("KAsELO");
 		System.out.println("PIMPO");
+		System.out.println("PIMPO");
+		
 		
 	}
 	
