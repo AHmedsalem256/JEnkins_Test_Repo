@@ -3,7 +3,7 @@ package F_1;
 public class C7 {
 	
 	public static void main(String[] args) {
-		System.out.println("I LOVE YOU MAVEN");
+		.out.println("I LOVE YOU MAVEN");
 	}
 	
 }
